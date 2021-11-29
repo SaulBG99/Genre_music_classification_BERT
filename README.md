@@ -15,7 +15,7 @@ To use the Kaggle API, sign up for a Kaggle account at https://www.kaggle.com. T
   
   lyrics.py webscrape the lyrics, it can take up to 5 hrs
   
-  web_scrapping.py get the mp3 file from youtube videos, the song.csv must already contain the youtube links to work properly. This process can take several days.
+  web_scrapping.py get the mp3 file from youtube videos, the song.csv must already contain the youtube links to work properly. This process can take several days. Many songs have copyright restrictions, beware of how you use it.
   
   
   
