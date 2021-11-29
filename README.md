@@ -6,9 +6,9 @@ To use the Kaggle API, sign up for a Kaggle account at https://www.kaggle.com. T
   
  The library Genius requires to login to obtain a token, place it in a json as:
   
-  '''json
+  ```json
   {"token":"<your_token>"}
-  '''
+  ```
   
   Along the code there are several -unnecessary- saves to songs.csv file, in case the colab ran out of time or memory.
   
