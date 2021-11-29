@@ -12,7 +12,7 @@ To use the Kaggle API, sign up for a Kaggle account at https://www.kaggle.com. T
   
   Along the code there are several -unnecessary- saves to songs.csv file, in case the colab ran out of time or memory.
   
-  lyrics.py webscrape the lyrics, it can take up to 5 hrs
+  <p href=lyrics.py>lyrics.py</p> webscrape the lyrics, it can take up to 5 hrs
   
   web_scrapping.py get the mp3 file from youtube videos, the song.csv must already contain the youtube links to work properly. This process can take several days.
   
